@@ -19,3 +19,4 @@ Usage
     Grab the interface via SteamAPI_SteamNetworkingSockets_v009.
      
 Check out Unit1.pas for a complete working example of a Server listening, a Client connecting, sending messages, and checking the ping.     
+Matching fresh 28.9.2026 64 bit dlls included    
