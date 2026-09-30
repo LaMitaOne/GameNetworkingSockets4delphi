@@ -8,7 +8,7 @@ uses
   System.SysUtils, Winapi.Windows;
 
 {==============================================================================*
- *  GameNetworkingSockets Delphi Wrapper - Dynamic Flat C API Bindings
+ *  GameNetworkingSockets Delphi Wrapper v0.1 - Dynamic Flat C API Bindings
  *------------------------------------------------------------------------------
  *  Author : Lara Miriam Tamy Reschke / LamitaOne
  *  License MIT
