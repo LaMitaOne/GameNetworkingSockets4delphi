@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.09.30 17:22:15.676,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.09.30 17:22:31.636,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>2026.09.30 17:23:01.452,C:\Users\Lenovo\Downloads\ValveNetworking\GameNetworkingSockets.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>2026.09.30 17:23:06.235,C:\Users\Lenovo\Downloads\ValveNetworking\Unit1.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.09.30 17:23:06.235,C:\Users\Lenovo\Downloads\ValveNetworking\Unit1.dfm=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>2026.09.30 17:23:09.086,C:\Users\Lenovo\Downloads\ValveNetworking\Project1.dproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
