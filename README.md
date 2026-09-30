@@ -1,6 +1,6 @@
-# GameNetworkingSockets4delphi
+# GameNetworkingSockets4delphi v0.1
 A dynamic Delphi wrapper for Valve's Open-Source GameNetworkingSockets library. This wrapper allows you to use the C++ Flat API in Delphi x64 projects without static linking issues.
-    
+         
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/GameNetworkingSockets4delphi)    
        
 Features     
